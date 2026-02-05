@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border box;
+
+}
+body{
+    font-size: 15px;
+    background-color: blue;
+    font-style: italic;
+}
+header{
+    text-align: center;
+    margin-bottom: 25px;
+    line-height: 1.2;
+    text-decoration: overline underline;
+}
+.container{
+    height: 100vh;
+    max-width: 400px;
+    width: 100px;
+    padding: 20px;
+
+}
+form{
+    background-color: black;
+    font-size: 20px;
+    text-align: center;
+}
+section{
+    margin: 20px;
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 40px;
+}
+section form button{
+    background-color: azure;
+    color: peru;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 40px;
+}
+list{
+    background-color: azure;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: grey;
+}
